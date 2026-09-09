@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Delfina 👋
+I'm a Systems Engineer focused on frontend development, building web applications with React, TypeScript, and JavaScript.
+
+I enjoy creating clean, accessible, and user-friendly interfaces, and I also have experience building and integrating REST APIs with Node.js.
 
 <!--
 **DelfinaGoicoechea/DelfinaGoicoechea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
