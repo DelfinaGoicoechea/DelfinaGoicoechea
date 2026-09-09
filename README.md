@@ -3,6 +3,13 @@ I'm a Systems Engineer focused on frontend development, building web application
 
 I enjoy creating clean, accessible, and user-friendly interfaces, and I also have experience building and integrating REST APIs with Node.js.
 
+## Tech Stack
+JavaScript · TypeScript · React · HTML · CSS · Tailwind CSS · Node.js · REST APIs · SQL · SQLite · Git
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/delfina-goicoechea/)
+
 <!--
 **DelfinaGoicoechea/DelfinaGoicoechea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
